@@ -1,0 +1,51 @@
+
+header{
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    
+    height: 72px;
+    margin-bottom: 50px;
+
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+   margin: 0 auto;
+   max-width: 1240px;
+  
+}
+
+.logo  {
+    color: rgb(41, 70, 99);
+    text-decoration: none;
+    font-weight: 200;
+    font-size: 30px;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+.nav-links li  {
+    
+    text-decoration: none;
+    padding: 8px 16px;
+   
+
+}
+.navbar-link{
+    display: inline-block;
+    text-decoration: none;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: brown;
+}
+.logo-name{
+    display: inline-block;
+    color: rgb(69, 35, 100);
+    text-decoration: none;
+   
+}
